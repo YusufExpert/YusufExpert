@@ -7,7 +7,7 @@
 
 ### ✆ Kontak
 - [x] `Yusuf Expert`
-- [x] [`WhatsApp`](https://wa.me/6283873115706) - *Save Kontak WhatsApp*
-- [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Follow Akun Instagram*
+- [x] [`WhatsApp`](https://wa.me/6283873115706) - *Simpan Kontak WhatsApp*
+- [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Ikuti Akun Instagram*
 
 > **2022 © Yusuf**
