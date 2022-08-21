@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="CC2022" align="left" width="100" height="130">
+<img src="./media/moe-3669736_640.png" alt="CC2022" align="left" width="100" height="130">
 
 # Yusuf Expert
 > **Halo Saya [`Yusuf Expert`](https://wa.me/qr/O65CD77FOVMNK1)**
