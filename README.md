@@ -3,7 +3,7 @@
 # Yusuf Expert
 > **Halo Saya [`Yusuf Expert`](https://wa.me/6283873115706)**
 
-### [`𝗞𝗢𝗡𝗧𝗔𝗞`](https://github.com/avianz37/CC/raw/main/ArdanPcrLana.zip) WhatsApp
+### [`𝗞𝗢𝗡𝗧𝗔𝗞`](https://wa.me/6283873115706) WhatsApp
 
 ### ✆ Kontak
 - [x] `Yusuf Expert`
