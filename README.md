@@ -1,4 +1,4 @@
-<img src="./media/moe-3669736_640.png" alt="image" align="left" width="100" height="130">
+<img src="./media/moe-3669736_640.png" alt="image" align="left" width="115" height="150">
 
 ## Yusuf Expert
 > **Name: [`𝗬𝘂𝘀𝘂𝗳 𝗘𝘅𝗽𝗲𝗿𝘁`]()**
