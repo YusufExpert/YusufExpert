@@ -9,9 +9,10 @@
 - [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706) [^1]
 - [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert) [^2]
 - [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct) [^3]
-
-> **2022 © Yusuf**
-
 [^1]: **WhatsApp**: `+62 838-7311-5706`
 [^2]: **Instagram**: `yusuf.expert`
 [^3]: **Facebook**: `yusuf.oct`
+
+> **2022 © Yusuf**
+
+![Yusuf](./media/moe-3251269_640.png)
