@@ -6,7 +6,6 @@
 ### [`𝗞𝗢𝗡𝗧𝗔𝗞`](https://wa.me/6283873115706) WhatsApp
 
 ### ✆ Kontak
-- [x] `Yusuf Expert`
 - [x] [`WhatsApp`](https://wa.me/6283873115706) - *Simpan Kontak WhatsApp*
 - [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Ikuti Akun Instagram*
 
