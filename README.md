@@ -16,8 +16,8 @@
 ### `⎙` Proyek
 |Proyek|`☐`|Deskripsi|
 |-|-|-|
-|[`CC`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|[`☑`]()|<sub>Terbaru</sub>|
-|[`PF/Preset`]()|[`☑`]()|<sub>Terbaru</sub>|
+|[`CC`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|`☑`|<sub>Terbaru</sub>|
+|[`PF/Preset`]()|`☑`|<sub>Terbaru</sub>|
 
 ### `✆` Sosmed
 - [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)
@@ -26,12 +26,6 @@
 - [ ] `𝗧𝘄𝗶𝘁𝘁𝗲𝗿`
 - [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**1**</sup>](https://wa.me/6283873115706) [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**2**</sup>](https://wa.me/6283830393361)
 - [x] [`𝗬𝗼𝘂𝗧𝘂𝗯𝗲`](https://youtube.com/channel/UC2e7RORRZrNNTyXXO4lqvjw)
-
-- **WhatsApp**
-  - Nomor Utama
-    - [`+62 838-7311-5706`](https://wa.me/6283873115706)
-  - Nomor Kedua
-    - [`+62 838-3039-3361`](https://wa.me/6283830393361)
 
 > **2022 © Yusuf**
 
