@@ -1,4 +1,4 @@
-<img src="./media/moe-3669736_640.png" alt="image" align="left" width="115" height="150">
+<img src="./media/moe-3669736_640.png" alt="moe-3669736_640.png" align="left" width="115" height="150">
 
 ## Yusuf Expert
 > **Name: [`𝗬𝘂𝘀𝘂𝗳 𝗘𝘅𝗽𝗲𝗿𝘁`]()**
@@ -31,7 +31,7 @@
 
 > **2022 © Yusuf**
 
-![image](./media/moe-3251269_640.png)
+![moe-3251269_640.png](./media/moe-3251269_640.png)
 
 [^1]: Meta Platforms, Inc., disingkat sebagai Meta dan sebelumnya dikenal juga sebagai Facebook, Inc. hingga 28 Oktober 2021, adalah sebuah layanan jejaring sosial berkantor pusat di Menlo Park, California, Amerika Serikat yang diluncurkan pada bulan Februari 2004.
 [^2]: Instagram adalah sebuah aplikasi berbagi foto dan video yang memungkinkan pengguna mengambil foto, mengambil video, menerapkan filter digital, dan membagikannya ke berbagai layanan jejaring sosial, termasuk milik Instagram sendiri.
