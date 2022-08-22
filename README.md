@@ -18,17 +18,17 @@
 - [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)
 - [ ] `𝗧𝗶𝗸𝗧𝗼𝗸`
 - [ ] `𝗧𝘄𝗶𝘁𝘁𝗲𝗿`
-- [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706) [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283830393361)
+- [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**1**</sup>](https://wa.me/6283873115706) [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**2**</sup>](https://wa.me/6283830393361)
 - [x] [`𝗬𝗼𝘂𝗧𝘂𝗯𝗲`](https://youtube.com/channel/UC2e7RORRZrNNTyXXO4lqvjw)
 
 |Sosmed|`☐`|Keterangan|
 |-|-|-|
-|**Facebook** [^1]|[`☑`]()|*Jarang Aktif*|
-|**Instagram** [^2]|[`☑`]()|*Aktif*|
-|~~TikTok~~ [^3]|`☒`|*Tidak Punya*|
-|~~Twitter~~ [^4]|`☒`|*Tidak Punya*|
-|**WhatsApp** [^5]|[`☑`]()|*Sering Aktif*|
-|**YouTube** [^6]|[`☑`]()|*Aktif*|
+|<sub>**Facebook**</sub> [^1]|[`☑`]()|<sub>Jarang Aktif</sub>|
+|<sub>**Instagram**</sub> [^2]|[`☑`]()|<sub>Aktif</sub>|
+|<sub>**TikTok**</sub> [^3]|`☒`|<sub>Tidak Punya<sub>|
+|<sub>**Twitter**</sub> [^4]|`☒`|<sub>Tidak Punya<sub>|
+|<sub>**WhatsApp**</sub> [^5]|[`☑`]()|<sub>Sering Aktif</sub>|
+|<sub>**YouTube**</sub> [^6]|[`☑`]()|<sub>Aktif</sub>|
 
 - **WhatsApp**
   - Nomor Utama
