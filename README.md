@@ -13,6 +13,12 @@
 - ᴊᴀɴɢᴀɴ ꜱᴘᴀᴍ! 
 ```
 
+### `⎙` Proyek
+|Proyek|`☐`|Deskripsi|
+|-|-|-|
+|[`CC`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|[`☑`]()|<sub>Terbaru</sub>|
+|[`PF/Preset`]()|[`☑`]()|<sub>Terbaru</sub>|
+
 ### `✆` Sosmed
 - [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)
 - [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)
@@ -20,11 +26,6 @@
 - [ ] `𝗧𝘄𝗶𝘁𝘁𝗲𝗿`
 - [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**1**</sup>](https://wa.me/6283873115706) [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`<sup>**2**</sup>](https://wa.me/6283830393361)
 - [x] [`𝗬𝗼𝘂𝗧𝘂𝗯𝗲`](https://youtube.com/channel/UC2e7RORRZrNNTyXXO4lqvjw)
-
-### `⎙` Proyek
-|Proyek|`☐`|Keterangan|
-|-|-|-|
-|[`CC`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|[`☑`]()|<sub>Terbaru</sub>|
 
 - **WhatsApp**
   - Nomor Utama
