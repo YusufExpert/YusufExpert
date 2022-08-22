@@ -23,12 +23,18 @@
 
 |Sosmed|`☐`|Keterangan|
 |-|-|-|
-|**Facebook** [^1]|`☑`|*Jarang Aktif*|
-|**Instagram** [^2]|`☑`|*Aktif*|
+|**Facebook** [^1]|[`☑`]()|*Jarang Aktif*|
+|**Instagram** [^2]|[`☑`]()|*Aktif*|
 |~~TikTok~~ [^3]|`☒`|*Tidak Punya*|
 |~~Twitter~~ [^4]|`☒`|*Tidak Punya*|
-|**WhatsApp** [^5]|`☑`|*Sering Aktif*|
-|**YouTube** [^6]|`☑`|*Aktif*|
+|**WhatsApp** [^5]|[`☑`]()|*Sering Aktif*|
+|**YouTube** [^6]|[`☑`]()|*Aktif*|
+
+- **WhatsApp**
+  - Nomor Utama
+    - [`+62 838-7311-5706`](https://wa.me/6283873115706)
+  - Nomor Kedua
+    - [`+62 838-3039-3361`](https://wa.me/6283830393361)
 
 > **2022 © Yusuf**
 
