@@ -6,9 +6,15 @@
 > **From: [`𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮`]()**<sup>:indonesia:</sup>
 
 ### ✆ Kontak
-- [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706) [^1]
-- [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert) [^2]
-- [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct) [^3]
+- [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706)
+- [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)
+- [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)
+
+|Kontak|`☐`|Keterangan|
+|-|-|-|
+|**WhatsApp** [^1]|`☑`|*Sering Aktif*|
+|**Instagram** [^2]|`☑`|*Aktif*|
+|**Facebook** [^3]|`☑`|*Jarang Aktif*|
 
 > **2022 © Yusuf**
 
