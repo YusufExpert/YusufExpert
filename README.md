@@ -23,12 +23,12 @@
 
 |Sosmed|`☐`|Keterangan|
 |-|-|-|
-|<sub>`Facebook`</sub> [^1]|[`☑`]()|<sub>Jarang Aktif</sub>|
-|<sub>`Instagram`</sub> [^2]|[`☑`]()|<sub>Aktif</sub>|
-|<sub>`TikTok`</sub> [^3]|`☒`|<sub>Tidak Punya<sub>|
-|<sub>`Twitter`</sub> [^4]|`☒`|<sub>Tidak Punya<sub>|
-|<sub>`WhatsApp`</sub> [^5]|[`☑`]()|<sub>Sering Aktif</sub>|
-|<sub>`YouTube`</sub> [^6]|[`☑`]()|<sub>Aktif</sub>|
+|[`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)[^1]|[`☑`]()|<sub>Jarang Aktif</sub>|
+|[`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)[^2]|[`☑`]()|<sub>Aktif</sub>|
+|`𝗧𝗶𝗸𝗧𝗼𝗸`[^3]|`☒`|<sub>Tidak Punya<sub>|
+|`𝗧𝘄𝗶𝘁𝘁𝗲𝗿`[^4]|`☒`|<sub>Tidak Punya<sub>|
+|[`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706)[^5]|[`☑`]()|<sub>Sering Aktif</sub>|
+|[`𝗬𝗼𝘂𝗧𝘂𝗯𝗲`](https://youtube.com/channel/UC2e7RORRZrNNTyXXO4lqvjw)[^6]|[`☑`]()|<sub>Aktif</sub>|
 
 - **WhatsApp**
   - Nomor Utama
