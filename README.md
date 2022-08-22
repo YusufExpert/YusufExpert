@@ -5,7 +5,7 @@
 
 > **From: [`𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮`]()**<sup>:indonesia:</sup>
 
-### ✆ Kontak
+### `✆` Kontak
 - [x] [`𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽`](https://wa.me/6283873115706)
 - [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)
 - [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)
