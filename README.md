@@ -1,4 +1,4 @@
-<img src="./media/moe-3669736_640.png" alt="moe-3669736_640.png" align="left" width="115" height="150">
+<img src="./Media's/moe-3669736_640.png" alt="moe-3669736_640.png" align="left" width="115" height="150">
 
 ## Yusuf Expert
 > **Name: [`𝗬𝘂𝘀𝘂𝗳 𝗘𝘅𝗽𝗲𝗿𝘁`]()**
@@ -34,5 +34,5 @@
 
 > **2022 © Yusuf**
 
-![moe-3251269_640.png](./media/moe-3251269_640.png)
+![moe-3251269_640.png](./Media's/moe-3251269_640.png)
 
