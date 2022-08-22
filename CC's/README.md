@@ -17,5 +17,3 @@
 - [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Don't forget to Follow*
 
 > **2022 © Yusuf**
-
-![CC](./CC.zip)
