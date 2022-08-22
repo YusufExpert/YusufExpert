@@ -22,7 +22,7 @@
 - [x] [`𝗬𝗼𝘂𝗧𝘂𝗯𝗲`](https://youtube.com/channel/UC2e7RORRZrNNTyXXO4lqvjw)
 
 ### `⎙` Proyek
-|Sosmed|`☐`|Keterangan|
+|Proyek|`☐`|Keterangan|
 |-|-|-|
 |[`CC`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|[`☑`]()|<sub>Terbaru</sub>|
 
