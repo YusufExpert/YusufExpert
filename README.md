@@ -8,8 +8,9 @@
 ### [`𝗞𝗢𝗡𝗧𝗔𝗞`](https://wa.me/6283873115706) <sup>WhatsApp</p>
 
 ```diff
-+ Kontak Saya jika penting
-- Jangan Spam
++ Chat Saya jika penting 
+! Save WA jika perlu 
+- Jangan Spam! 
 ```
 
 ### `✆` Sosmed
