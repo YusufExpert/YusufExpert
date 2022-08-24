@@ -16,7 +16,7 @@
 ### `⎙` Proyek
 |Proyek|`☐`|Unduhan|
 |-|-|-|
-|[`𝗖𝗖`](https://github.com/YusufExpert/YusufExpert/tree/main/CC's)|`☑`|[`𝗨𝗡𝗗𝗨𝗛`]()|
+|[`𝗖𝗖`](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|`☑`|[`𝗨𝗡𝗗𝗨𝗛`]()|
 |[`𝗣𝗙/𝗣𝗿𝗲𝘀𝗲𝘁`]()|`☑`|[`𝗨𝗡𝗗𝗨𝗛`]()|
 |[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|`☑`|[`𝗨𝗡𝗗𝗨𝗛`](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
 
