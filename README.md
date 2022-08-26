@@ -41,3 +41,5 @@
 
 **<details><summary>Anime</summary><img src="./Media's/moe-3251269_640.png"></details>**
 
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react)
+
