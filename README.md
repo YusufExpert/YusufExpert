@@ -1,7 +1,11 @@
 <h2 align="center">Yusuf Expert</h2>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-brightgreen?style=for-the-badge" alt="Yusuf Expert"></a>
+</p>
+<p align="center">
 <b href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Creator-Yusuf%20Expert-blue?style=for-the-badge&logo=WhatsApp" alt="Creator"></b>
+</p>
+<p align="center">
 <c href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG"></c>
 </p>
 
