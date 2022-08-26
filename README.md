@@ -1,6 +1,6 @@
 <h2 align="center">Yusuf Expert</h2>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-brightgreen?style=for-the-badge" alt="Yusuf Expert"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a>
 </p>
 <p align="center">
 <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/WhatsApp-+6283873115706-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
