@@ -49,5 +49,5 @@
 
 > **2022 © Yusuf**
 
-![moe-3251269_640.png](./Media's/moe-3251269_640.png)
+**<details><summary>Anime</summary><img src="./Media's/moe-3251269_640.png"></details>**
 
