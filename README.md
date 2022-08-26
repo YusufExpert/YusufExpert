@@ -1,31 +1,9 @@
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/-Yusuf%20Expert-brightgreen?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-brightgreen?style=for-the-badge" alt="Yusuf Expert"></a>
+<a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/Creator-Yusuf%20Expert-blue?style=for-the-badge&logo=WhatsApp" alt="Creator"></a>
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG"></a>
 </p>
 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Yusuf%20Expert-blue?style=for-the-badge&logo=WhatsApp"></a>
-</p>
-
-<p align="center">
-  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ReynaBOT+Multi+Device;Created+by+Yusuf+Expert" alt="ʘᴗʘ">
-</p>
-
-<img src="./Media's/moe-3669736_640_2.png" alt="Smiley face" align="left" width="115px" height="150px">
-
-## Yusuf Expert
-> **Name: [`𝗬𝘂𝘀𝘂𝗳 𝗘𝘅𝗽𝗲𝗿𝘁`]()**
-
-> **From: [`𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮`]()**<sup>:indonesia:</sup>
-
-### [`𝗖𝗢𝗡𝗧𝗔𝗖𝗧`<sup>WhatsApp</p>](https://wa.me/6283873115706)
-
-```diff
-@@ PENTING @@
-+ ᴄʜᴀᴛ ᴊɪᴋᴀ ᴘᴇɴᴛɪɴɢ 
-! ꜱᴀᴠᴇ ᴊɪᴋᴀ ᴘᴇʀʟᴜ 
-- ᴊᴀɴɢᴀɴ ꜱᴘᴀᴍ! 
-# ʏᴜꜱᴜꜰ ᴇxᴘᴇʀᴛ
-```
 ---
 ### `⎙` Proyek
 |Proyek|`☐`|Unduhan|
