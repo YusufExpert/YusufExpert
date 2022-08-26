@@ -1,7 +1,20 @@
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/-Yusuf%20Expert-brightgreen?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Yusuf%20Expert-blue?style=for-the-badge&logo=WhatsApp"></a>
+</p>
+
+<p align="center">
+  <a href=""><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ReynaBOT+Multi+Device;Created+by+Yusuf+Expert" alt="ʘᴗʘ">
+</p>
+
 <img src="./Media's/moe-3669736_640_2.png" alt="Smiley face" align="left" width="115px" height="150px">
 
 ## Yusuf Expert
 > **Name: [`𝗬𝘂𝘀𝘂𝗳 𝗘𝘅𝗽𝗲𝗿𝘁`]()**
+
 > **From: [`𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮`]()**<sup>:indonesia:</sup>
 
 ### [`𝗖𝗢𝗡𝗧𝗔𝗖𝗧`<sup>WhatsApp</p>](https://wa.me/6283873115706)
@@ -13,7 +26,7 @@
 - ᴊᴀɴɢᴀɴ ꜱᴘᴀᴍ! 
 # ʏᴜꜱᴜꜰ ᴇxᴘᴇʀᴛ
 ```
-
+---
 ### `⎙` Proyek
 |Proyek|`☐`|Unduhan|
 |-|-|-|
@@ -34,7 +47,7 @@
 + ɴᴠ: ɴᴏᴅᴇ ᴠɪᴅᴇᴏ 
 - ᴡᴀ: ᴡʜᴀᴛꜱᴀᴘᴘ  
 ```
-
+---
 ### `✆` Sosmed
 - [x] [`𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸`](https://www.facebook.com/yusuf.oct)
 - [x] [`𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺`](https://www.instagram.com/yusuf.expert)
