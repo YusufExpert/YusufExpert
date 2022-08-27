@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<code><a href="#"><img height="50" src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a></code>
+<code><a href="#"><img height="40" src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a></code>
 </p>
 
 <p align="center">
