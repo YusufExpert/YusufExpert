@@ -13,7 +13,15 @@
 <a href="https://www.instagram.com/yusuf.expert"><img src="https://img.shields.io/badge/Instagram-yusuf.expert-red?colorA=C86464&colorB=AF4B4B&style=for-the-badge" alt="Instagram"></a>
 </p>
 <details><summary><h3><code>Stats</code></h3></summary>
+<p align="left">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufExpert&repo=YusufExpert&show_owner=true&theme=react" alt="Pin"></a>
+</p>
+<p align="left">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react" alt="Stats"></a>
+</p>
+<p align="left">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufExpert&layout=compact&theme=react" alt="Top Langs"></a>
+</p>
 </details>
 
 ---
