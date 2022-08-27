@@ -15,13 +15,13 @@
 
 ---
 ### `⎙` Proyek
-|Proyek|`☐`|Unduhan|
-|-|-|-|
-|[`𝗖𝗼𝗹𝗼𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻`]()<sup>**NV**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
-|[`𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲`]()<sup>**MS**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
-|`𝗣𝗹𝘂𝗴𝗶𝗻`<sup>**AE**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
-|`𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗢𝗧`<sup>**WA**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
-|[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
+|Proyek|Unduhan|
+|-|-|
+|[`𝗖𝗼𝗹𝗼𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻`]()<sup>**NV**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
+|[`𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲`]()<sup>**MS**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
+|`𝗣𝗹𝘂𝗴𝗶𝗻`<sup>**AE**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|`𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗢𝗧`<sup>**WA**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
 
 ```diff
 @@ INFO @@
