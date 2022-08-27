@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./Media's/moe-3669736_640_2.png" alt="Anime" width="115" height="150">
+<a href="#"><img src="./Media's/moe-3669736_640_2.png" alt="Anime" width="115" height="150"></a>
 <h2 align="center">Yusuf Expert</h2>
 </p>
 <p align="center">
@@ -17,11 +17,11 @@
 ### `⎙` Proyek
 |Proyek|`☐`|Unduhan|
 |-|-|-|
-|[`𝗖𝗼𝗹𝗼𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻`]()<sup>**NV**</sup>|`☑`|[`𝗨𝗡𝗗𝗨𝗛`](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
-|[`𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲`]()<sup>**MS**</sup>|`☑`|[`𝗨𝗡𝗗𝗨𝗛`]()|
-|`𝗣𝗹𝘂𝗴𝗶𝗻`<sup>**AE**</sup>|`☑`|`𝗨𝗡𝗗𝗨𝗛`|
-|`𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗢𝗧`<sup>**WA**</sup>|`☑`|`𝗨𝗡𝗗𝗨𝗛`|
-|[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|`☑`|[`𝗨𝗡𝗗𝗨𝗛`](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
+|[`𝗖𝗼𝗹𝗼𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻`]()<sup>**NV**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
+|[`𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲`]()<sup>**MS**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
+|`𝗣𝗹𝘂𝗴𝗶𝗻`<sup>**AE**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|`𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗢𝗧`<sup>**WA**</sup>|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|`☑`|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
 
 ```diff
 @@ INFO @@
@@ -50,5 +50,5 @@
 
 **<details><summary>Anime</summary><img src="./Media's/moe-3251269_640.png"></details>**
 
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react)
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react)](#)
 
