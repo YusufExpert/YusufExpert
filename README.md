@@ -23,7 +23,7 @@
 <a href="#"><img height="20" alt="YouTube" src="./Media's/Logo's/youtube.png"></a>
 <details><summary><code><h3>Stats</h3></code></summary>
 <p align="left">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufExpert&repo=YusufExpert&show_owner=true&theme=react" alt="Pin"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufExpert&repo=YusufExpert&theme=react" alt="Pin"></a>
 </p>
 <p align="left">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react" alt="Stats"></a>
