@@ -11,20 +11,20 @@
 </p>
 <p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG" /></a>
-</p>
-<details><summary>Stats</summary>
+<details><summary><h3>Stats</h3></summary>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react" alt="Stats"></a>
 </details>
+</p>
 
 ---
 ### `⎙` Proyek
 |Proyek|Unduhan|
 |-|-|
-|[`𝗖𝗼𝗹𝗼𝗿 𝗖𝗼𝗿𝗿𝗲𝗰𝘁𝗶𝗼𝗻`]()<sup>**NV**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
-|[`𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲`]()<sup>**MS**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
-|`𝗣𝗹𝘂𝗴𝗶𝗻`<sup>**AE**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
-|`𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗢𝗧`<sup>**WA**</sup>|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
-|[`𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲`]()|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
+|[![CC](https://img.shields.io/badge/-Color%20Correction-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
+|[![PF](https://img.shields.io/badge/-Project%20File-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
+|[![Plugin](https://img.shields.io/badge/-Plugin-grey?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|[![SC BOT](https://img.shields.io/badge/-Script%20BOT-grey?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
+|[![Software](https://img.shields.io/badge/-Software-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
 
 ```diff
 @@ INFO @@
