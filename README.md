@@ -20,11 +20,11 @@
 ### `⎙` Proyek
 |Proyek|Unduhan|
 |-|-|
-|[![CC](https://img.shields.io/badge/-Color%20Correction-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
-|[![PF](https://img.shields.io/badge/-Project%20File-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)]()|
+|[![CC](https://img.shields.io/badge/-Color%20Correction-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-brightgreen?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/CC's/README.md)|
+|[![PF](https://img.shields.io/badge/-Project%20File-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-brightgreen?style=for-the-badge)]()|
 |[![Plugin](https://img.shields.io/badge/-Plugin-grey?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
 |[![SC BOT](https://img.shields.io/badge/-Script%20BOT-grey?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-grey?style=for-the-badge)](#)|
-|[![Software](https://img.shields.io/badge/-Software-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-blue?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
+|[![Software](https://img.shields.io/badge/-Software-blue?style=for-the-badge)](#)|[![`𝗨𝗡𝗗𝗨𝗛`](https://img.shields.io/badge/-UNDUH-brightgreen?style=for-the-badge)](https://github.com/YusufExpert/YusufExpert/blob/main/Software's/README.md)|
 
 ```diff
 @@ INFO @@
