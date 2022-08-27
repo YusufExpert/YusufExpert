@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-<code><a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a></code>
+<code><a href="#"><img height="50" src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a></code>
 </p>
 
 <p align="center">
-<a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/WhatsApp-+6283873115706-green?colorA=64C864&colorB=4BAF4B&style=for-the-badge" alt="WhatsApp"></a>
-<a href="https://www.instagram.com/yusuf.expert"><img src="https://img.shields.io/badge/Instagram-yusuf.expert-red?colorA=C86464&colorB=AF4B4B&style=for-the-badge" alt="Instagram"></a>
+<a href="https://wa.me/6283873115706"><img height="30" src="https://img.shields.io/badge/WhatsApp-+6283873115706-green?colorA=64C864&colorB=4BAF4B&style=for-the-badge" alt="WhatsApp"></a>
+<a href="https://www.instagram.com/yusuf.expert"><img height="30" src="https://img.shields.io/badge/Instagram-yusuf.expert-red?colorA=C86464&colorB=AF4B4B&style=for-the-badge" alt="Instagram"></a>
 </p>
 
 <p align="center">
