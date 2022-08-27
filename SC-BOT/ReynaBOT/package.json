@@ -1,0 +1,26 @@
+{
+  "name": "reyna-bot",
+  "version": "X BOT",
+  "description": "Created by Yusuf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "baileys": "npm i @adiwajshing/baileys",
+    "cfonts": "npm i cfonts",
+    "nodemon": "npm install -g nodemon",
+    "del": "node del.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "multi device"
+  ],
+  "author": "Yusuf",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "4.4.0",
+    "cfonts": "^3.1.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
