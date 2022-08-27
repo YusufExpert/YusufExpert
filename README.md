@@ -1,9 +1,9 @@
 <p align="center">
-<a href="#"><img src="./Media's/moe-3669736_640_2.png" alt="Anime" width="115" height="150"></a>
+<a href="#"><img src="./Media's/moe-3669736_640_2.png" alt="Anime" height="150"></a>
 <h2 align="center">Yusuf Expert</h2>
 </p>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a>
+<code><a href="#"><img src="https://img.shields.io/badge/-Yusuf%20Expert-blue?style=for-the-badge" alt="Yusuf Expert"></a></code>
 </p>
 <p align="center">
 <a href="https://wa.me/6283873115706"><img src="https://img.shields.io/badge/WhatsApp-+6283873115706-green?colorA=64C864&colorB=4BAF4B&style=for-the-badge" alt="WhatsApp"></a>
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG" /></a>
-<details><summary><h3>Stats</h3></summary>
+<details><summary><h3><code>Stats</code></h3></summary>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react" alt="Stats"></a>
 </details>
 </p>
