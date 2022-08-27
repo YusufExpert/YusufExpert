@@ -19,7 +19,7 @@
 <p align="center">
 <code><a href="#"><img height="20" alt="WhatsApp" src="./Media's/Logo's/whatsapp.png"></a></code>
 <code><a href="#"><img height="20" alt="Instagram" src="./Media's/Logo's/instagram.png"></a></code>
-<code><a href="#"><img height="20" alt="Facebook" src="./Media's/Logo's/facebook.ico"></a></code>
+<code><a href="#"><img height="20" alt="Facebook" src="./Media's/Logo's/facebook.png"></a></code>
 </p>
 
 <details><summary><code><h3>Stats</h3></code></summary>
