@@ -12,6 +12,9 @@
 <p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG" /></a>
 </p>
+<details><summary>Stats</summary>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react" alt="Stats"></a>
+</details>
 
 ---
 ### `⎙` Proyek
@@ -47,8 +50,4 @@
 [^2]: **WhatsApp²**: `+62 838-3039-3361`
 
 > **2022 © Yusuf**
-
-**<details><summary>Anime</summary><img src="./Media's/moe-3251269_640.png"></details>**
-
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufExpert&show_icons=true&theme=react)](#)
 
