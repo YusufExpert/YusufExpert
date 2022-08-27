@@ -1,6 +1,8 @@
 <p align="center">
 <a href="#"><img src="./Media's/moe-3669736_640_2.png" alt="Anime" height="150"></a>
 <h2 align="center">Yusuf Expert</h2>
+</p>
+<p align="center">
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=WA%3A+%2B62+838-7311-5706;IG%3A+yusuf.expert" alt="Typing SVG" /></a>
 </p>
 <p align="center">
