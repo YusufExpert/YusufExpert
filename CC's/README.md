@@ -1,19 +1,8 @@
-<img src="https://cdn.pixabay.com/photo/2018/09/11/14/49/moe-3669736_1280.png" alt="CC2022" align="left" width="100" height="130">
+<p align="center">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=CC%20NOW%20AVAILABLE;CC%20SEKARANG%20TERSEDIA" alt="Typing SVG" /></a>
+<a href="#"><img src="../Media's/moe-3669736_640_2.png" alt="Anime" height="150"/></a>
+</p>
 
-# 𝗖𝗖𝟮𝟬𝟮𝟮
-> **Created by [`Yusuf Expert`](https://wa.me/6283873115706)**
-
-### [`𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗`](https://github.com/YusufExpert/YusufExpert/raw/main/ccs/CC.zip) ᴠᴇʀꜱɪ ᴛᴇʀʙᴀʀᴜ
-
-### ☑ Kelebihan
-|Kelebihan|☐|Keterangan|
-|-|-|-|
-|**Ringan**|☑|*Support HP kentang*|
-|**Simple**|☑|*Mudah digunakan*|
-
-### ✆ Owner/Creator
-- [x] `Yusuf Expert`
-- [x] [`WhatsApp`](https://wa.me/6283873115706) - *Save nomor Owner*
-- [x] [`Instagram`](https://www.instagram.com/yusuf.expert) - *Don't forget to Follow*
-
-> **2022 © Yusuf**
+<p align="center">
+<code><a href="#"><img height="35" src="https://img.shields.io/badge/-DOWNLOAD-brightGreen?style=for-the-badge" alt="Yusuf Expert"></a></code>
+</p>
