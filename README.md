@@ -21,7 +21,11 @@
 <a href="#"><img height="20" alt="Instagram" src="./Media's/Logo's/instagram.png"></a>
 <a href="#"><img height="20" alt="WhatsApp" src="./Media's/Logo's/whatsapp.png"></a>
 <a href="#"><img height="20" alt="YouTube" src="./Media's/Logo's/youtube.png"></a>
-<details><summary><code><h3>Stats</h3></code></summary>
+</p>
+
+<div align="center">
+<details>
+<summary><code>Stats</code></summary>
 <p align="left">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufExpert&repo=YusufExpert&theme=react" alt="Pin"></a>
 </p>
@@ -32,7 +36,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufExpert&layout=compact&theme=react" alt="Top Langs"></a>
 </p>
 </details>
-</p>
 
 ---
 ### `⎙` Proyek
