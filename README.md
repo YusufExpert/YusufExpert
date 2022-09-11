@@ -36,6 +36,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufExpert&layout=compact&theme=react" alt="Top Langs"></a>
 </p>
 </details>
+</div>
 
 ---
 ### `⎙` Proyek
