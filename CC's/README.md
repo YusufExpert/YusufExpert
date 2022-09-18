@@ -7,7 +7,7 @@
 <summary><code>CC1.0</code></summary>
 <p align="center">
 
-<a href="#"><img src="Group1_1.png" alt="1.0" height="150"/></a>
+<a href="#"><img src="1.0.jpg" alt="1.0" height="150"/></a>
 </p>
 <code><a href="https://github.com/YusufExpert/YusufExpert/raw/main/CC's/CC.zip"><img height="35" src="https://img.shields.io/badge/-DOWNLOAD-brightGreen?style=for-the-badge" alt="Unduh"></a></code>
 </details>
