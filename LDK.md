@@ -21,4 +21,4 @@
 |18|Handphone|✓|
 |19|Sarung|✓|
 |20|Sabun Cuci Muka||
-|21|Deodoran||
+|21|Deodoran|✓|
